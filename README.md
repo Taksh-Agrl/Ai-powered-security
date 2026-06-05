@@ -387,7 +387,7 @@ This approach provides both fast automated detection and meaningful explanations
 
 # 🎥 Demo Video
 
-🔗 Add your YouTube demo link here
+🔗 https://youtu.be/Is1z0A5To1U
 
 ---
 
